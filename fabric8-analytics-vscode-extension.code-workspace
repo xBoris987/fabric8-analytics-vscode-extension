@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "fabric8-analytics-vscode-extension: v0.10.2 (dcf9458)",
+			"path": "../fabric8-analytics-vscode-extension.worktrees/v0.10.2"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "./node_modules/typescript/lib",
+		"redhat.telemetry.enabled": true
+	}
+}
